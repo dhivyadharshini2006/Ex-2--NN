@@ -124,7 +124,12 @@ plt.show()
 ```
 
 # OUTPUT:
+
+
 <img width="315" height="115" alt="image" src="https://github.com/user-attachments/assets/16a414e5-942e-40aa-bb0a-ce3383fdf598" />
+
+
+
 
 
 
@@ -132,7 +137,17 @@ plt.show()
 
 
 
+
+
+
+
+
 <img width="381" height="374" alt="download" src="https://github.com/user-attachments/assets/3ca7109a-db5f-4bd0-8760-f311cecf6a1f" />
+
+
+
+
+
 
 
 
